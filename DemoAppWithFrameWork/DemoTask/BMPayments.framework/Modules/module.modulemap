@@ -1,0 +1,11 @@
+framework module BMPayments {
+  umbrella header "BMPayments.h"
+
+  export *
+  module * { export * }
+}
+
+module BMPayments.Swift {
+    header "BMPayments-Swift.h"
+    requires objc
+}

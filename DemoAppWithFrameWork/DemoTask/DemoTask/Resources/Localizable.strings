@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  DemoTask
+
+  Created by Bhupesh on 11/12/19.
+  Copyright © 2019 Bhupesh. All rights reserved.
+*/
+"Check Out" = "Check Out";
+"No of Items" = "No of Items";
+"Total Amount" = "Total Amount";
+"Tax" = "Tax";
+"Amount to Pay" = "Amount to Pay";
+"All Payments" = "All Payments";
+"Debit Card" = "Debit Card";
+"Credit Card" = "Credit Card";
+"Pay" = "Pay";
+"Payment Success" = "Payment Success";
+"Payment Successful" = "Payment Successful";
+"Transaction Ref" = "Transaction Ref";
+"No" = "No";
+"OK" = "OK";
+"Payment Mode" = "Payment Mode";
+"Saved Card" = "Saved Card";
+"Card Number" = "Card Number";
+"Card Name" = "Card Name";
+"Exp Yr" = "Exp Yr";
+"CVV" = "CVV";
+"Save Card" = "Save Card";
+"Continue" = "Continue";
+"Ref Number" = "Ref Number";
+"Please enter valid card details" = "Please enter valid card details";
+"Payment" = "Payment";
